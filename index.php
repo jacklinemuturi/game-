@@ -11,7 +11,7 @@
 </head>
 <body >
   <div>
-    <form action="" method="POST">
+    <form action="form.php" method="POST">
       <label id="reg">REGISTRATION  FORM</label><br>
       <br>
       FirstName
@@ -45,7 +45,7 @@
       Additional info<br>
       <textarea name = "info" id = "text" value = "Add info"></textarea><br>
       <input id = "terms" type = "checkbox" name = "term">Terms and conditions<br><br>
-      <input type = "submit" id = "terms" value = "Register">
+      <button class= "btn btn-success btn-block">REGISTER</button>
        
     </form>
   </div>
