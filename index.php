@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,8 +46,7 @@
       Additional info<br>
       <textarea name = "info" id = "text" value = "Add info"></textarea><br>
       <input id = "terms" type = "checkbox" name = "term">Terms and conditions<br><br>
-      <button class= "btn btn-success btn-block">REGISTER</button>
-       
+      <button class= "btn btn-success btn-block">REGISTER</button>      
     </form>
   </div>
 
