@@ -15,13 +15,13 @@
     <form action="form.php" method="POST">
       <label id="reg">REGISTRATION  FORM</label><br>
       <br>
-      FirstName
+      <label>FirstName</label>
       <input id = "fname" type = "text" placeholder = "Your FirstName" name = "Fgitname"><br>
-      LastName   
+      <label>LastName</label>  
       <input id = "lname" type = "text" placeholder = "Your LastName"  name = "Lname"><br>                
-      Phonenumber   
+      <label>Phonenumber<label>   
       <input id = "phone" type = "phonenumber" placeholder = "phonenumber" name = "phonenumber"><br>
-      Gender
+      <label>Gender<label>
       <input id = "gender" type = "radio" name = "gender" value = "male">Male
       <input id = "gender" type = "radio" name = "gender" value = "female">female<br><br>
       Date of birth
